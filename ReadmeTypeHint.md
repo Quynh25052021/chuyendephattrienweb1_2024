@@ -1,0 +1,1 @@
+Branch Type hint
